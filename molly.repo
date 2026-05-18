@@ -1,0 +1,5 @@
+[molly]
+name=Molly Terminal Packages
+baseurl=https://ploglabs.github.io/rpm-repo/el/$releasever/$basearch
+enabled=1
+gpgcheck=0
